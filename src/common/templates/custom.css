@@ -1,0 +1,14 @@
+.main-footer {
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+}
+
+.content-header>.breadcrumb>li>span>.fa{
+    margin-right: 5px;
+}
+
+html, body, #app, #app>div {
+    height: 100% !important
+}
+
